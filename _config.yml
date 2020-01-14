@@ -72,7 +72,7 @@ lsi: False
 username: heohoon
 repo: heohoon.github.io
 branch: master
-relative_source: /
+relative_source: /heohoon.github.io/
 destination: ../jasper2-pages/
 production_url:  https://heohoon.github.io/
 source_url:  https://github.com/heohoon/heohoon.github.io/
